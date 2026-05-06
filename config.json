@@ -1,0 +1,11 @@
+
+{
+  "workflow": {
+    "goal": "Run daily business automation pipeline",
+    "steps": [
+      "fetch_data",
+      "analyze_data",
+      "generate_report"
+    ]
+  }
+}
